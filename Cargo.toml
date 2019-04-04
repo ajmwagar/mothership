@@ -1,0 +1,10 @@
+[package]
+name = "mothership"
+version = "0.1.0"
+authors = ["Avery Wagar <ajmw.subs@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+#ufo_rs = { path = "../ufo" }
+ufo_rs = "*"
+minifb = "0.11.2"
